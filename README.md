@@ -10,14 +10,4 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am cool and creative .
 
-<!-- Actual text -->
-
-You can find me on [![Instagram]]][1], or on [![LinkedIn][2].
-
-
-
-<!-- Links to my social media accounts -->
-
-[1]: https://www.instagram.com/ig_utkarsh001/
-[2]: https://www.linkedin.com/in/utkarsh-sinha-2143b41b1/
-
+ Contact Me: Instagram - @ig_utkarsh001 
