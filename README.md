@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on Web Dev projects .
 - 🤔 I’m looking for help with ML and Cyber Security.
 - 💬 Ask me about frontend Web Dev.
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am cool and creative .
 
  Contact Me: Instagram - @ig_utkarsh001 
